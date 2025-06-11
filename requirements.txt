@@ -6,4 +6,4 @@ deep-translator
 gtts
 transformers
 torch
-sentencepiece
+sentencepiece==0.1.99
