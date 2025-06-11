@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+python-docx
+python-dotenv
+deep-translator
+gtts
+TTS
+transformers
+torch
+sentencepiece
+gtts-token
